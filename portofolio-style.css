@@ -15,22 +15,8 @@
   padding-top: 1rem;
 }
 
-.jumbotron,
-.contact,
 #about,
-#projects {
-  margin: 0%;
-  padding: 0%;
-  border: 0;
-  bottom: 0%;
-  box-sizing: border-box;
-}
-
-svg {
-  padding-bottom: 0%;
-  bottom: 0%;
-  border-bottom: 0%;
-  overflow: hidden;
-  width: 100%;
-  height: 100%;
+#projects,
+#contact {
+  padding-top: 3rem;
 }
