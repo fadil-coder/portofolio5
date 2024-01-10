@@ -1,36 +1,22 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
-  z-index: 0;
-}
-
-#about {
-  position: relative;
-  z-index: 1;
-  top: -3px;
 }
 
 #projects {
-  position: relative;
   padding-top: 1rem;
   background-color: #e2edff;
-  z-index: 2;
-  top: -3px;
 }
 
 .contact {
-  position: relative;
   padding-top: 1rem;
-  z-index: 3;
-  top: -4px;
 }
-
-footer {
-  top: -3px;
-  position: relative;
-  z-index: 4;
-}
-
 .row {
   padding-top: 1rem;
+}
+
+#about,
+#projects,
+#contact {
+  padding-top: 5rem;
 }
