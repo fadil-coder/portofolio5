@@ -20,3 +20,15 @@
 #contact {
   padding-top: 5rem;
 }
+
+footer {
+  position: relative;
+  bottom: 1px;
+}
+
+gallery-img {
+  width: 100%;
+}
+#gallery .row > * {
+  padding: 0;
+}
